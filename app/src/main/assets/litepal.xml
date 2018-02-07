@@ -6,7 +6,7 @@
     <list>
         <mapping class = "com.example.joern.coolweather.db.Province"/>
         <mapping class = "com.example.joern.coolweather.db.City"/>
-        <mapping class = "com.example.joern.coolweather.db.Country"/>
+        <mapping class = "com.example.joern.coolweather.db.County"/>
     </list>
 
 
